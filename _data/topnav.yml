@@ -15,14 +15,14 @@ topnav_dropdowns:
   folders:
     - title: Homelab Docs
       folderitems:
+        - title: Homelab Documentation
+          url: /_docs/homelabDocs/
+        - title: Red Team Writeups
+          url: /_docs/redteamDocs/
+        - title: Blue Team Writeups
+          url: /_docs/blueteamDocs/
 
-    - title: Red Teaming
-      folderitems:
 
-    - title: Blue Teaming
-      folderitems:
-
-    
     - title: About
       folderitems:
         - title: Contact
