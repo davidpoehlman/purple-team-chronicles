@@ -8,4 +8,6 @@ entries:
   - title: Other Links
     folderitems:
     
+    - title: Home (test from other sidebar)
+      url: index.html
 # Copyright 2021 Google LLC

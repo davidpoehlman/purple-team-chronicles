@@ -4,19 +4,28 @@ topnav:
 - title: Topnav
   items:
     - title: Home
-      url: /
+      url: /index.html
     - title: News
-      url: /news
+      url: /news.html
+
 
 #Topnav dropdowns
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: Homelab Docs
       folderitems:
 
-    - title: Products
+    - title: Red Teaming
       folderitems:
-      
+
+    - title: Blue Teaming
+      folderitems:
+
+    
+    - title: About
+      folderitems:
+        - title: Contact
+          url: /contact/
 
 # Copyright 2021 Google LLC
