@@ -5,7 +5,7 @@ output: web
 
 topnav_title: Purple Team Chronicles
 # this appears on the top navigation bar next to the home button
-topnav_logo: /images/company_logo.png
+#topnav_logo: /images/company_logo.png
 topnav_tagline: 'Convergant Technologist'
 
 site_title: Purple Team Chronicles
