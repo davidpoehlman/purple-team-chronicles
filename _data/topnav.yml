@@ -15,17 +15,17 @@ topnav_dropdowns:
   folders:
     - title: Homelab Docs
       folderitems:
-        - title: Homelab Documentation
-          url: /_docs/homelabDocs/
-        - title: Red Team Writeups
-          url: /_docs/redteamDocs/
-        - title: Blue Team Writeups
-          url: /_docs/blueteamDocs/
+        - title: Setup Documentation
+          url: /Intro_(setup).html
+        # - title: Red Team Writeups  # todo: add this 
+        #   url: /_docs/redteamDocs/  # todo: add this 
+        # - title: Blue Team Writeups # todo: add this 
+        #   url: /_docs/blueteamDocs/ # todo: add this 
 
 
     - title: About
       folderitems:
-        - title: Contact
-          url: /contact/
+        # - title: Contact  # todo: add this 
+        #   url: /contact/  # todo: add this 
 
 # Copyright 2021 Google LLC

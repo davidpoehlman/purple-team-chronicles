@@ -1,0 +1,18 @@
+# This is the sidebar for the Homelab Documentation. It is a single level sidebar with multiple single level dropdowns.
+
+
+entries:
+- title: Sidebar
+  product: Homelab Documentation
+  version: 1.0
+  folders:
+
+  - title: Getting Started
+    output: web
+    folderitems:
+    - title: Introduction
+      url: /Intro_(setup).html
+      output: web
+#    - title: Hardware    # todo: add this
+#      url: example.html
+#      output: web
